@@ -3,3 +3,11 @@ it's controller to control the movement of the robot and the servos that control
 the source code also includes smoothing algorithm for the accelerometer
 
 Grade receieved: 1st Class
+
+DEMO:
+
+
+  [![Watch the demo](https://img.youtube.com/vi/B3zEYWUtI8U/0.jpg)](https://www.youtube.com/watch?v=B3zEYWUtI8U)
+
+  [![Watch the demo](https://img.youtube.com/vi/HoygYoJ7njg/0.jpg)](https://www.youtube.com/watch?v=HoygYoJ7njg)
+  
